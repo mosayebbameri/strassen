@@ -1,0 +1,35 @@
+c:\users\mohsen one\documents\visual studio 2015\Projects\Strassen\Strassen\bin\Debug\Strassen.exe
+c:\users\mohsen one\documents\visual studio 2015\Projects\Strassen\Strassen\bin\Debug\Strassen.pdb
+c:\users\mohsen one\documents\visual studio 2015\Projects\Strassen\Strassen\obj\Debug\Strassen.csprojResolveAssemblyReference.cache
+c:\users\mohsen one\documents\visual studio 2015\Projects\Strassen\Strassen\obj\Debug\Strassen.Form1.resources
+c:\users\mohsen one\documents\visual studio 2015\Projects\Strassen\Strassen\obj\Debug\Strassen.Properties.Resources.resources
+c:\users\mohsen one\documents\visual studio 2015\Projects\Strassen\Strassen\obj\Debug\Strassen.csproj.GenerateResource.Cache
+c:\users\mohsen one\documents\visual studio 2015\Projects\Strassen\Strassen\obj\Debug\Strassen.exe
+c:\users\mohsen one\documents\visual studio 2015\Projects\Strassen\Strassen\obj\Debug\Strassen.pdb
+E:\Work\uni\Term 7\Algorithm Design\Strassen\Program\Strassen\Strassen\obj\Debug\Strassen.exe
+E:\Work\uni\Term 7\Algorithm Design\Strassen\Program\Strassen\Strassen\obj\Debug\Strassen.pdb
+E:\Work\uni\Term 7\Algorithm Design\Strassen\Program\Strassen\Strassen\bin\Debug\Strassen.exe
+E:\Work\uni\Term 7\Algorithm Design\Strassen\Program\Strassen\Strassen\bin\Debug\Strassen.pdb
+E:\Work\uni\Term 7\Algorithm Design\Strassen\Program\Strassen\Strassen\obj\Debug\Strassen.csprojResolveAssemblyReference.cache
+E:\Work\uni\Term 7\Algorithm Design\Strassen\Program\Strassen\Strassen\obj\Debug\Strassen.Form1.resources
+E:\Work\uni\Term 7\Algorithm Design\Strassen\Program\Strassen\Strassen\obj\Debug\Strassen.Properties.Resources.resources
+E:\Work\uni\Term 7\Algorithm Design\Strassen\Program\Strassen\Strassen\obj\Debug\Strassen.csproj.GenerateResource.Cache
+E:\Strassen\Strassen\Strassen\obj\Debug\Strassen.exe
+E:\Strassen\Strassen\Strassen\obj\Debug\Strassen.pdb
+E:\Strassen\Strassen\Strassen\bin\Debug\Strassen.exe
+E:\Strassen\Strassen\Strassen\bin\Debug\Strassen.pdb
+E:\Strassen\Strassen\Strassen\obj\Debug\Strassen.csprojResolveAssemblyReference.cache
+E:\Strassen\Strassen\Strassen\obj\Debug\Strassen.Form1.resources
+E:\Strassen\Strassen\Strassen\obj\Debug\Strassen.Properties.Resources.resources
+E:\Strassen\Strassen\Strassen\obj\Debug\Strassen.csproj.GenerateResource.Cache
+D:\DARSI\کتاب درسی\projects\Strassen\Strassen\Strassen\obj\Debug\Strassen.exe
+D:\DARSI\کتاب درسی\projects\Strassen\Strassen\Strassen\obj\Debug\Strassen.pdb
+C:\Users\programmer\Desktop\strasen's\Strassen\bin\Debug\Strassen.exe.config
+C:\Users\programmer\Desktop\strasen's\Strassen\obj\Debug\Strassen.exe
+C:\Users\programmer\Desktop\strasen's\Strassen\obj\Debug\Strassen.pdb
+C:\Users\programmer\Desktop\strasen's\Strassen\bin\Debug\Strassen.exe
+C:\Users\programmer\Desktop\strasen's\Strassen\bin\Debug\Strassen.pdb
+C:\Users\programmer\Desktop\strasen's\Strassen\obj\Debug\Strassen.csprojResolveAssemblyReference.cache
+C:\Users\programmer\Desktop\strasen's\Strassen\obj\Debug\Strassen.Form1.resources
+C:\Users\programmer\Desktop\strasen's\Strassen\obj\Debug\Strassen.Properties.Resources.resources
+C:\Users\programmer\Desktop\strasen's\Strassen\obj\Debug\Strassen.csproj.GenerateResource.Cache
